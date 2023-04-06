@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-kevin",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kevin Bello <kevinbello7u7@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "random-str-msg-kevin": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
